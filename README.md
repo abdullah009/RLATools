@@ -10,4 +10,6 @@ you may use this.
 To run the application from command line:
 java -jar path/RLT_S.jar path/config_file_name.xml
 
+www.rlatools.com.zip contains necessary files to run the application on web. 
+
 Please contact us for any issue regarding this tool at **abdullah.am.cs@gmail.com**
