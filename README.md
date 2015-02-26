@@ -1,11 +1,12 @@
 RLATools (Record Linkage Algorithm Tools)
 =========================================
 
-CONTENTS AND COPYRIGHT
+##### CONTENTS AND COPYRIGHT
 
 This directory contains the source code for RLA Single Linkage tool. All files are copyrighted, but license 
 is hereby granted for personal, academic, and non-profit use. Commercial users should contact rajasek@engr.uconn.edu. If you have any quries about development, please contact abdullah.am.cs@engr.uconn.edu.
 
+##### INSTRUCTIONS
 This record linkage tool is based on single linkage hierarchical clustering. You may read the paper titled [Efficient sequential and parallel algorithms for record linkage](http://jamia.oxfordjournals.org/content/21/2/252.full).
 
 To run the desktop tool we need a configuration file where input data files are configured. Here we have put a sample 
